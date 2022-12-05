@@ -2,7 +2,6 @@
   "name": "starter",
   "version": "1.0.0",
   "description": "forkify",
-  
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir ./dist"
@@ -14,6 +13,7 @@
     "parcel": "^2.8.0"
   },
   "dependencies": {
-    "fractional": "^1.0.0"
+    "fractional": "^1.0.0",
+    "fracty": "^1.0.11"
   }
 }
